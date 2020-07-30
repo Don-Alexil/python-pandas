@@ -1,4 +1,4 @@
-from collections_data import entries
+from common.collections_data import entries
 # Import defaultdict
 from collections import defaultdict
 
