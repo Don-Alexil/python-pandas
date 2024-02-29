@@ -1,3 +1,6 @@
+# Manipulating Time Series Data in Python
+# Your first time series
+
 import pandas as pd 
 
 # Create the range of dates here
